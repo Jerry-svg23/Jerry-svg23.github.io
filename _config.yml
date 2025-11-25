@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Zijie Zhang"
-  avatar           : "/assets/avatar.jpg"
+  avatar           : "/assets/avatar.png"
   bio              : "AI undergraduate at Nanjing University, focusing on multimodal large models"
   location         : "Suzhou, China"
   email            : "231880200bee@gmail.com"
