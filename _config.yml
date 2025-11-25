@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Zijie Zhang"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "AI undergraduate at Nanjing University, focusing on multimodal large models"
+  location         : "Suzhou, China"
+  email            : "231880200bee@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
